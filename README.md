@@ -2,7 +2,7 @@
 A temporary email generator using the 1secAPI to generate unlimited temporary mails. You may use the bot to check the temp-mails' messages. It was created for the purpose of staying safe and for fun and education purposes only!
 
 
- - [Installation Guide](docs/installation-guide.md)
+ - [Installation Guide](https://github.com/Exo-OX1564/emailgen-discord/edit/main/README.md#installation-guide)
  - [Configuration](https://github.com/Exo-OX1564/emailgen-discord/edit/main/README.md#configuration)
  - [Start](https://github.com/Exo-OX1564/emailgen-discord/edit/main/README.md#start)
  - [Error Handling](https://github.com/Exo-OX1564/emailgen-discord/edit/main/README.md#error-handling)
