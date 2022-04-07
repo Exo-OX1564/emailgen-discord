@@ -112,4 +112,4 @@ async def check(ctx, email = None, id = None):
 #finally, run the bot :D!
 client.run(my_secret)
 
-#Coded By Exo#4313 and Electro8292
+#Coded By Exo#4313 - You may take this credit off in your code.
